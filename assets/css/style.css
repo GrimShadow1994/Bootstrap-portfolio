@@ -82,6 +82,10 @@ nav {
   margin-top: 25px;
 }
 
+.fixed {
+  padding-bottom: 25px;
+}
+
 nav a {
   display: inline-block;
   padding-left: 15px;
@@ -137,7 +141,7 @@ h3, h2 {
 /* portfolio page */
 
 .work {
-  position: relative;
+  /* position: relative; */
   float: left;
   width: 274px;
   margin: 20px 0 25px;
@@ -169,7 +173,7 @@ h3, h2 {
 }
 
 .auth-image {
-  float: left;
+  /* float: left; */
   width: 200px;
   height: auto;
   margin-top: 10px;
